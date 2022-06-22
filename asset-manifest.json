@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PencariBuku-APIGooglebook/static/css/main.e687f6ed.css",
+    "main.js": "/PencariBuku-APIGooglebook/static/js/main.9cdaa7ff.js",
+    "static/js/787.22417937.chunk.js": "/PencariBuku-APIGooglebook/static/js/787.22417937.chunk.js",
+    "static/media/bg1.jpg": "/PencariBuku-APIGooglebook/static/media/bg1.dbc5a39f97927d55b9e9.jpg",
+    "index.html": "/PencariBuku-APIGooglebook/index.html",
+    "main.e687f6ed.css.map": "/PencariBuku-APIGooglebook/static/css/main.e687f6ed.css.map",
+    "main.9cdaa7ff.js.map": "/PencariBuku-APIGooglebook/static/js/main.9cdaa7ff.js.map",
+    "787.22417937.chunk.js.map": "/PencariBuku-APIGooglebook/static/js/787.22417937.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e687f6ed.css",
+    "static/js/main.9cdaa7ff.js"
+  ]
+}
